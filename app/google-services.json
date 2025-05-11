@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428080550693",
+    "project_id": "cash-manager-app-aa421",
+    "storage_bucket": "cash-manager-app-aa421.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428080550693:android:e21c8f289fc811be14c0cc",
+        "android_client_info": {
+          "package_name": "com.example.cashmanagerapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ2nPrCZUQVZszH9OpIK6IyORi1364YdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
