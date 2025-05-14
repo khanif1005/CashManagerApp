@@ -64,11 +64,11 @@
                     />
 
                 <TextView
-                    android:id="@+id/tv_profileemail"
+                    android:id="@+id/tv_profileusername"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="20dp"
-                    tools:text="Aqwam.Khanif12@gmail.com"
+                    tools:text="Khanif"
                     android:textColor="@color/white"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toBottomOf="@+id/tv_profilename"

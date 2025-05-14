@@ -11,6 +11,8 @@
     tools:text="Kategori"
     android:textColor="@color/white"
     android:backgroundTint="@android:color/darker_gray"
+    tools:textColor="@color/white"
+    tools:backgroundTint="@color/teal_700"
     app:cornerRadius="10dp"
     android:id="@+id/btn_category"
     />
