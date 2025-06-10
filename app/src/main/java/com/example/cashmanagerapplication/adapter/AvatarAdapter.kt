@@ -25,7 +25,7 @@ class AvatarAdapter(var avatars: ArrayList<Int>,
         }
     }
 
-    //perhatikan
+    //perhatikan ini
     override fun getItemCount(): Int {
         return avatars.size
     }
